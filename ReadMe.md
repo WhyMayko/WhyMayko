@@ -1,4 +1,4 @@
-<img width="736" height="1022" alt="Toji" src="https://github.com/user-attachments/assets/95031f0b-0a8a-47c0-a7db-83bda9baf0e0" />
+<img width="360" height="500" alt="Toji" src="https://github.com/user-attachments/assets/95031f0b-0a8a-47c0-a7db-83bda9baf0e0" />
 
 # 💫 About Me:
 Exploring the code universe 🌌<br>Luau scripter and backend enthusiast.<br>Currently building script hubs.
