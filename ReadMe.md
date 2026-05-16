@@ -1,3 +1,6 @@
+<img width="854" height="480" alt="Toji1" src="https://github.com/user-attachments/assets/63f15450-648e-4351-b7df-742d00f421ce" />
+
+
 # 💫 About Me:
 Exploring the code universe 🌌<br>Luau scripter and backend enthusiast.<br>Currently building script hubs.
 
